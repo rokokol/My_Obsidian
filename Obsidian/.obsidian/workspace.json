@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7601aeb177e4a235",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4631dead6b1bd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a09b5433c2b9cc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Схема Горнера.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64ad04b1555fca7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11ab7853edca4a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e8c0d32f4d2a9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae8a52acd6a2ba81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32f7e3ee2647eaf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c51d765c33f164a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe48148bdb29df43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c205639207039a34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Схема Горнера.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b2c8fa6d2e1dc50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Схема Горнера.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a1832705564061d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5764994b3970f82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Схема Горнера.md"
+              }
+            }
+          },
+          {
+            "id": "5e140ba964ee4ba3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "a09b5433c2b9cc61",
+  "lastOpenFiles": [
+    "Какой-то файл с инфой что-ли.md",
+    "Notes/Схема Горнера.md",
+    "Notes/История №7.md",
+    "Daily Notes/2023-10-27.md",
+    "Notes",
+    "Untitled.canvas",
+    "Pasted image 20231027174546.jpg",
+    "2023-10-27.md",
+    "2023-10-23.md",
+    "1.md",
+    "data.md",
+    "Daily Notes",
+    "Data",
+    "Pasted image 20231023184859.png",
+    "Pasted image 20231022205857.png",
+    "Pasted image 20231022205742.png",
+    "Pasted image 20231022205520.png",
+    "Pasted image 20231022205324.png",
+    "Pasted image 20231022205022.png",
+    "Pasted image 20231022204533.png",
+    "Pasted image 20231022202346.png",
+    "Pasted image 20231022202332.png",
+    "2023-10-21.md"
+  ]
+}

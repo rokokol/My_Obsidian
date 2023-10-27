@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "5fca39a659ffc9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d5a52a60c680b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058d976d86cea0dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "befa1e47f67fff54",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef5171304a5b220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9548df89ae551b82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02fe92481641405c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e404fcdd6b166545",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "d731cba658518032",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbe8fb9513259df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57d73f58b9d060f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "181e2f01e19125fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e814b4739230f257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01c21b16ba9bce21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9548df89ae551b82",
+  "lastOpenFiles": [
+    "2023-10-21.md",
+    "Untitled.canvas",
+    "Obsidian/files/dashboard-ReadLineLength.css",
+    "Obsidian/files/dashboard.css",
+    "Obsidian/files",
+    "Obsidian/Untitled Folder",
+    "dashboard-ReadLineLength.css",
+    "dashboard.css",
+    "Obsidian.md",
+    "Untitled.md",
+    "Obsidian",
+    "Lectures/History/20.10.2023.md",
+    "цукйцукйцукй.md",
+    "Books/geometrija_7-11.pdf"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "attachmentFolderPath": "Data",
+  "trashOption": "system",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
