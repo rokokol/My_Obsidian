@@ -15,7 +15,7 @@
               "state": {
                 "file": "Notes/Схема Горнера.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c51d765c33f164a",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +160,8 @@
   },
   "active": "a09b5433c2b9cc61",
   "lastOpenFiles": [
-    "Какой-то файл с инфой что-ли.md",
     "Notes/Схема Горнера.md",
+    "Какой-то файл с инфой что-ли.md",
     "Notes/История №7.md",
     "Daily Notes/2023-10-27.md",
     "Notes",
